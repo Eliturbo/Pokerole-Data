@@ -103,5 +103,9 @@
             "Learned": "Pro",
             "Name": "Fire Pledge"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Volcanoes"
     ]
 }

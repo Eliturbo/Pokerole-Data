@@ -127,5 +127,10 @@
             "Learned": "Pro",
             "Name": "Sucker Punch"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

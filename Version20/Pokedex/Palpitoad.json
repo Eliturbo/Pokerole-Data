@@ -116,5 +116,10 @@
             "Learned": "Pro",
             "Name": "Icy Wind"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Ponds",
+        "Swamps, Bogs, and Marshes"
     ]
 }

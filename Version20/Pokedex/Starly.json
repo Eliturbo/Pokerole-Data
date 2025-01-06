@@ -103,5 +103,11 @@
             "Learned": "Pro",
             "Name": "Uproar"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Fields and Meadows",
+        "Mountains",
+        "Temperate, Deciduous Forests"
     ]
 }

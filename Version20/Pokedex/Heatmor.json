@@ -129,5 +129,10 @@
             "Learned": "Pro",
             "Name": "Night Slash"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Mountains",
+        "Tropical Jungles"
     ]
 }

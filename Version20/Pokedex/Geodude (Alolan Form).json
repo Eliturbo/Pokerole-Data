@@ -119,5 +119,10 @@
             "Learned": "Pro",
             "Name": "Screech"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Electromagnetically-Active Areas",
+        "Mountains"
     ]
 }

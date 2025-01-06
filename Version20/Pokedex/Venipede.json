@@ -111,5 +111,9 @@
             "Learned": "Pro",
             "Name": "Pin Missile"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Wonder Room"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Ruins and Cemeteries"
     ]
 }

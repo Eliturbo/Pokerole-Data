@@ -114,5 +114,11 @@
             "Learned": "Pro",
             "Name": "Acrobatics"
         }
+    ],
+    "Habitats": [
+        "Deserts",
+        "Fields and Meadows",
+        "Glaciers, Mountain Peaks, and Icy Caves",
+        "Mountains"
     ]
 }

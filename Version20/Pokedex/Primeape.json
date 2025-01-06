@@ -131,5 +131,10 @@
             "Learned": "Pro",
             "Name": "Overheat"
         }
+    ],
+    "Habitats": [
+        "Mountains",
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles"
     ]
 }

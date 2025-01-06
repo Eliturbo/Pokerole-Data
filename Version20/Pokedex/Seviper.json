@@ -129,5 +129,9 @@
             "Learned": "Pro",
             "Name": "Iron Tail"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Lakesides and Riversides"
     ]
 }

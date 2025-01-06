@@ -59,5 +59,12 @@
             "Learned": "Ace",
             "Name": "Charge Beam"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Caves",
+        "Lakesides and Riversides",
+        "Lakes",
+        "Streams and Rivers"
     ]
 }

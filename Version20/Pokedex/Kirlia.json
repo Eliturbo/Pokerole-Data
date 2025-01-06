@@ -130,5 +130,9 @@
             "Learned": "Pro",
             "Name": "Magic Room"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Temperate, Deciduous Forests"
     ]
 }

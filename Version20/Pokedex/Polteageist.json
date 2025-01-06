@@ -107,5 +107,9 @@
             "Learned": "Pro",
             "Name": "Self Destruct"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Ruins and Cemeteries"
     ]
 }

@@ -120,5 +120,9 @@
             "Learned": "Pro",
             "Name": "Super Fang"
         }
+    ],
+    "Habitats": [
+        "Glaciers, Mountain Peaks, and Icy Caves",
+        "Polar Seas"
     ]
 }

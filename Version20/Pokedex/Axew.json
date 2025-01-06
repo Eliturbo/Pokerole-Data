@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Night Slash"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Lakesides and Riversides"
     ]
 }

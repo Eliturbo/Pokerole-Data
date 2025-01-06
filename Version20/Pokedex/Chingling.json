@@ -88,5 +88,11 @@
             "Learned": "Pro",
             "Name": "Future Sight"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Mountains",
+        "Ruins and Cemeteries",
+        "Woodlands"
     ]
 }

@@ -116,5 +116,10 @@
             "Learned": "Pro",
             "Name": "Steel Wing"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Temperate, Deciduous Forests"
     ]
 }

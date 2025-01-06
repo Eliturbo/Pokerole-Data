@@ -120,5 +120,9 @@
             "Learned": "Pro",
             "Name": "Air Cutter"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Woodlands"
     ]
 }

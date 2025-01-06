@@ -119,5 +119,10 @@
             "Learned": "Pro",
             "Name": "Feint"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Volcanoes",
+        "Woodlands"
     ]
 }

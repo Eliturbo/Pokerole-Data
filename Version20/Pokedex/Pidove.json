@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Hypnosis"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Temperate, Deciduous Forests"
     ]
 }

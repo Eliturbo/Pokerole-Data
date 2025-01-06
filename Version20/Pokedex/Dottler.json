@@ -76,5 +76,9 @@
             "Learned": "Pro",
             "Name": "Infestation"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Temperate, Deciduous Forests"
     ]
 }

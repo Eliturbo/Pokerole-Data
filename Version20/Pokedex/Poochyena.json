@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Endure"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Temperate, Deciduous Forests",
+        "Tundras and Boreal Forests"
     ]
 }

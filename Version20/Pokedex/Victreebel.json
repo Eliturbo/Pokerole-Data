@@ -95,5 +95,9 @@
             "Learned": "Pro",
             "Name": "Synthesis"
         }
+    ],
+    "Habitats": [
+        "Swamps, Bogs, and Marshes",
+        "Tropical Jungles"
     ]
 }

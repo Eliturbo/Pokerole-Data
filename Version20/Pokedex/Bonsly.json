@@ -111,5 +111,9 @@
             "Learned": "Pro",
             "Name": "Foul Play"
         }
+    ],
+    "Habitats": [
+        "Mountains",
+        "Temperate, Deciduous Forests"
     ]
 }

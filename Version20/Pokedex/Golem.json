@@ -122,5 +122,10 @@
             "Learned": "Pro",
             "Name": "Thunder Punch"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Mountains",
+        "Volcanoes"
     ]
 }

@@ -107,5 +107,9 @@
             "Learned": "Pro",
             "Name": "Trick"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Woodlands"
     ]
 }

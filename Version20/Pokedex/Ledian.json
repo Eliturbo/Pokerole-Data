@@ -111,5 +111,10 @@
             "Learned": "Pro",
             "Name": "Psybeam"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles",
+        "Woodlands"
     ]
 }

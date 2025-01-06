@@ -64,5 +64,10 @@
             "Learned": "Pro",
             "Name": "Electroweb"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles",
+        "Tundras and Boreal Forests"
     ]
 }

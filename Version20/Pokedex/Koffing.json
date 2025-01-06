@@ -121,5 +121,9 @@
             "Learned": "Pro",
             "Name": "Rollout"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Volcanoes"
     ]
 }

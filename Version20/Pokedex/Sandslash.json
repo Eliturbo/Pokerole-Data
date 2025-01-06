@@ -127,5 +127,10 @@
             "Learned": "Pro",
             "Name": "Counter"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Deserts",
+        "Grasslands, Savannas, Plains, and Prairies"
     ]
 }

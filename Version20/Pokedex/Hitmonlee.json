@@ -124,5 +124,9 @@
             "Learned": "Pro",
             "Name": "Mach Punch"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Mountains"
     ]
 }

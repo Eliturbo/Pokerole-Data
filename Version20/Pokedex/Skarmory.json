@@ -113,5 +113,10 @@
             "Learned": "Pro",
             "Name": "Pursuit"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Mountains",
+        "Tundras and Boreal Forests"
     ]
 }

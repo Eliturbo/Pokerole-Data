@@ -79,5 +79,11 @@
             "Learned": "Pro",
             "Name": "Fake Tears"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Mountains",
+        "Tundras and Boreal Forests",
+        "Woodlands"
     ]
 }

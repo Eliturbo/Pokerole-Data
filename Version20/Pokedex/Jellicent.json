@@ -111,5 +111,11 @@
             "Learned": "Pro",
             "Name": "Confuse Ray"
         }
+    ],
+    "Habitats": [
+        "Oceanic Abysses",
+        "Open Ocean and the Continental Shelf",
+        "Polar Seas",
+        "Tropical Seas and Coral Reefs"
     ]
 }

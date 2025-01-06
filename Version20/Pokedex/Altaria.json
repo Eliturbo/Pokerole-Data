@@ -140,5 +140,10 @@
             "Learned": "Pro",
             "Name": "Dragon Rush"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Temperate, Deciduous Forests",
+        "Volcanoes"
     ]
 }

@@ -115,5 +115,9 @@
             "Learned": "Pro",
             "Name": "Snatch"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Temperate, Deciduous Forests"
     ]
 }

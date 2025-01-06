@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Last Resort"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Temperate, Deciduous Forests"
     ]
 }

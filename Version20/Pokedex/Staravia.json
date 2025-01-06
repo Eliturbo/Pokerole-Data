@@ -108,5 +108,10 @@
             "Learned": "Pro",
             "Name": "Detect"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Mountains",
+        "Temperate, Deciduous Forests"
     ]
 }

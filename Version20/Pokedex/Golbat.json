@@ -129,5 +129,8 @@
             "Learned": "Pro",
             "Name": "Venom Drench"
         }
+    ],
+    "Habitats": [
+        "Caves"
     ]
 }

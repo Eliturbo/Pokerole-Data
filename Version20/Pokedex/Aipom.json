@@ -111,5 +111,9 @@
             "Learned": "Pro",
             "Name": "Quick Guard"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles"
     ]
 }

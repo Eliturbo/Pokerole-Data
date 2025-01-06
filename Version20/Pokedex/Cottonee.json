@@ -123,5 +123,9 @@
             "Learned": "Pro",
             "Name": "Encore"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

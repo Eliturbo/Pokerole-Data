@@ -127,5 +127,9 @@
             "Learned": "Pro",
             "Name": "Fire Punch"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Mountains"
     ]
 }

@@ -123,5 +123,9 @@
             "Learned": "Pro",
             "Name": "Trick"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Tropical Jungles"
     ]
 }

@@ -109,5 +109,10 @@
             "Learned": "Pro",
             "Name": "Present"
         }
+    ],
+    "Habitats": [
+        "Electromagnetically-Active Areas",
+        "Fields and Meadows",
+        "Temperate, Deciduous Forests"
     ]
 }

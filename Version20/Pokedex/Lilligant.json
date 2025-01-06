@@ -87,5 +87,9 @@
             "Learned": "Pro",
             "Name": "Ingrain"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

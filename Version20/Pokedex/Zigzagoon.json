@@ -119,5 +119,11 @@
             "Learned": "Pro",
             "Name": "Trick"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Woodlands"
     ]
 }

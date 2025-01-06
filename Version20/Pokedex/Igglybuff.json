@@ -80,5 +80,9 @@
             "Learned": "Pro",
             "Name": "Perish Song"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Temperate, Deciduous Forests"
     ]
 }

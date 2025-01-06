@@ -135,5 +135,10 @@
             "Learned": "Pro",
             "Name": "Psybeam"
         }
+    ],
+    "Habitats": [
+        "Oceanic Abysses",
+        "Open Ocean and the Continental Shelf",
+        "Tropical Seas and Coral Reefs"
     ]
 }

@@ -115,5 +115,11 @@
             "Learned": "Pro",
             "Name": "Feint"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Deserts",
+        "Mountains",
+        "Temperate, Deciduous Forests"
     ]
 }

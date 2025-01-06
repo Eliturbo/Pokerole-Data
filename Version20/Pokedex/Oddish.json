@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Endure"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Swamps, Bogs, and Marshes",
+        "Tropical Jungles"
     ]
 }

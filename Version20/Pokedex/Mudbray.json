@@ -111,5 +111,9 @@
             "Learned": "Pro",
             "Name": "Mud Bomb"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Mountains"
     ]
 }

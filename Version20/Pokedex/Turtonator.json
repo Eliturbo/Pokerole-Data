@@ -109,5 +109,10 @@
             "Learned": "Pro",
             "Name": "Wide Guard"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Mountains",
+        "Volcanoes"
     ]
 }

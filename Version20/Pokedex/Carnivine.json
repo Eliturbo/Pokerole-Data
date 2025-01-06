@@ -105,5 +105,9 @@
             "Learned": "Pro",
             "Name": "Seed Bomb"
         }
+    ],
+    "Habitats": [
+        "Swamps, Bogs, and Marshes",
+        "Temperate, Deciduous Forests"
     ]
 }

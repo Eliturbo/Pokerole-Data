@@ -112,5 +112,9 @@
             "Learned": "Pro",
             "Name": "Endeavor"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

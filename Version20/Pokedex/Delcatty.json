@@ -71,5 +71,9 @@
             "Learned": "Pro",
             "Name": "Cosmic Power"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Temperate, Deciduous Forests"
     ]
 }

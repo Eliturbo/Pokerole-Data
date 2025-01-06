@@ -151,5 +151,9 @@
             "Learned": "Pro",
             "Name": "Yawn"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Fields and Meadows"
     ]
 }

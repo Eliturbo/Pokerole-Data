@@ -125,5 +125,10 @@
             "Learned": "Pro",
             "Name": "Acupressure"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Caves",
+        "Mountains"
     ]
 }

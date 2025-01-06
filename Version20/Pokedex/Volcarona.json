@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Magnet Rise"
         }
+    ],
+    "Habitats": [
+        "Ruins and Cemeteries",
+        "Volcanoes"
     ]
 }

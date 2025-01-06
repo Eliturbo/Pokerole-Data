@@ -120,5 +120,9 @@
             "Learned": "Pro",
             "Name": "Avalanche"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Swamps, Bogs, and Marshes"
     ]
 }

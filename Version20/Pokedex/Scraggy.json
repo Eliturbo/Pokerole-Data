@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Fire Punch"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Deserts"
     ]
 }

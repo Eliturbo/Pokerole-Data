@@ -95,5 +95,9 @@
             "Learned": "Pro",
             "Name": "Earth Power"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Tropical Seas and Coral Reefs"
     ]
 }

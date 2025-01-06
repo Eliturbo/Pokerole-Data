@@ -111,5 +111,9 @@
             "Learned": "Pro",
             "Name": "Blast Burn"
         }
+    ],
+    "Habitats": [
+        "Mountains",
+        "Volcanoes"
     ]
 }

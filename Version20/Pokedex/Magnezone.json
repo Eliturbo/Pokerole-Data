@@ -139,5 +139,8 @@
             "Learned": "Pro",
             "Name": "Signal Beam"
         }
+    ],
+    "Habitats": [
+        "Electromagnetically-Active Areas"
     ]
 }

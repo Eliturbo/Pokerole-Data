@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Flame Burst"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

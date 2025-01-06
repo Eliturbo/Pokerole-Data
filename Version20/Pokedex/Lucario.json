@@ -137,5 +137,8 @@
             "Learned": "Pro",
             "Name": "Vacuum Wave"
         }
+    ],
+    "Habitats": [
+        "Mountains"
     ]
 }

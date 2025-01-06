@@ -119,5 +119,11 @@
             "Learned": "Pro",
             "Name": "Dragon Rush"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Caves",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Mountains"
     ]
 }

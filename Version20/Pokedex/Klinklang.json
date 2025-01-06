@@ -123,5 +123,10 @@
             "Learned": "Pro",
             "Name": "Magnet Rise"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Cities",
+        "Electromagnetically-Active Areas"
     ]
 }

@@ -111,5 +111,11 @@
             "Learned": "Pro",
             "Name": "Steel Beam"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Swamps, Bogs, and Marshes",
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

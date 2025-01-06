@@ -123,5 +123,11 @@
             "Learned": "Pro",
             "Name": "Seed Bomb"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Mountains",
+        "Tundras and Boreal Forests",
+        "Woodlands"
     ]
 }

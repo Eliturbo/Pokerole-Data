@@ -120,5 +120,9 @@
             "Learned": "Pro",
             "Name": "Hydro Cannon"
         }
+    ],
+    "Habitats": [
+        "Lakes",
+        "Ponds"
     ]
 }

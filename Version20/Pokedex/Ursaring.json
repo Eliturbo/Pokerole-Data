@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Gunk Shot"
         }
+    ],
+    "Habitats": [
+        "Swamps, Bogs, and Marshes",
+        "Temperate, Deciduous Forests",
+        "Tundras and Boreal Forests"
     ]
 }

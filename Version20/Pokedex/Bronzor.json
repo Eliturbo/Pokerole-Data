@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Signal Beam"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Ruins and Cemeteries"
     ]
 }

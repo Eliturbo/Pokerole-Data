@@ -123,5 +123,8 @@
             "Learned": "Pro",
             "Name": "Aqua Tail"
         }
+    ],
+    "Habitats": [
+        "Deserts"
     ]
 }

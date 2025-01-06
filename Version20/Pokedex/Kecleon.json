@@ -121,5 +121,10 @@
             "Learned": "Pro",
             "Name": "Trick"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles"
     ]
 }

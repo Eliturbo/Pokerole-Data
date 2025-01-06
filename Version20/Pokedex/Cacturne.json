@@ -131,5 +131,8 @@
             "Learned": "Pro",
             "Name": "Seed Bomb"
         }
+    ],
+    "Habitats": [
+        "Deserts"
     ]
 }

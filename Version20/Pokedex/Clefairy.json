@@ -153,5 +153,8 @@
             "Learned": "Pro",
             "Name": "Heal Pulse"
         }
+    ],
+    "Habitats": [
+        "Mountains"
     ]
 }

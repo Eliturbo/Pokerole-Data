@@ -83,5 +83,11 @@
             "Learned": "Pro",
             "Name": "Refresh"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Lakes",
+        "Ponds",
+        "Swamps, Bogs, and Marshes"
     ]
 }

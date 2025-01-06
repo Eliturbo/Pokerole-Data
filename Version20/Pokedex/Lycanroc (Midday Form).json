@@ -128,5 +128,11 @@
             "Learned": "Pro",
             "Name": "Drill Run"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Deserts",
+        "Mountains",
+        "Temperate, Deciduous Forests"
     ]
 }

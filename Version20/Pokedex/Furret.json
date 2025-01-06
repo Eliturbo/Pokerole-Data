@@ -119,5 +119,11 @@
             "Learned": "Pro",
             "Name": "Iron Tail"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Tundras and Boreal Forests",
+        "Woodlands"
     ]
 }

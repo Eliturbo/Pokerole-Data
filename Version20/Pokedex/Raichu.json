@@ -71,5 +71,9 @@
             "Learned": "Pro",
             "Name": "Volt Tackle"
         }
+    ],
+    "Habitats": [
+        "Electromagnetically-Active Areas",
+        "Temperate, Deciduous Forests"
     ]
 }

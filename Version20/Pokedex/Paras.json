@@ -103,5 +103,10 @@
             "Learned": "Pro",
             "Name": "Leech Seed"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

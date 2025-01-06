@@ -155,5 +155,9 @@
             "Learned": "Ace",
             "Name": "Teeter Dance"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Glaciers, Mountain Peaks, and Icy Caves"
     ]
 }

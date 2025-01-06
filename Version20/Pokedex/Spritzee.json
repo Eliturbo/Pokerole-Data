@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Covet"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Woodlands"
     ]
 }

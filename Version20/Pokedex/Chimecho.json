@@ -116,5 +116,11 @@
             "Learned": "Pro",
             "Name": "Stored Power"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Mountains",
+        "Ruins and Cemeteries",
+        "Woodlands"
     ]
 }

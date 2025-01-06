@@ -112,5 +112,9 @@
             "Learned": "Pro",
             "Name": "Heat Wave"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Temperate, Deciduous Forests"
     ]
 }

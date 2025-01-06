@@ -107,5 +107,9 @@
             "Learned": "Pro",
             "Name": "Mud Slap"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Grasslands, Savannas, Plains, and Prairies"
     ]
 }

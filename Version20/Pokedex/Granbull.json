@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Close Combat"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Temperate, Deciduous Forests"
     ]
 }

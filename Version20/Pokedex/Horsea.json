@@ -103,5 +103,9 @@
             "Learned": "Pro",
             "Name": "Octazooka"
         }
+    ],
+    "Habitats": [
+        "Open Ocean and the Continental Shelf",
+        "Tropical Seas and Coral Reefs"
     ]
 }

@@ -139,5 +139,11 @@
             "Learned": "Pro",
             "Name": "Sucker Punch"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Ruins and Cemeteries",
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

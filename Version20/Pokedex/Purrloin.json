@@ -123,5 +123,10 @@
             "Learned": "Pro",
             "Name": "Pay Day"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Tropical Jungles"
     ]
 }

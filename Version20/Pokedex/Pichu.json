@@ -80,5 +80,10 @@
             "Learned": "Pro",
             "Name": "Disarming Voice"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Electromagnetically-Active Areas",
+        "Temperate, Deciduous Forests"
     ]
 }

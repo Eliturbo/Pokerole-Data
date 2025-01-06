@@ -141,5 +141,11 @@
             "Learned": "Pro",
             "Name": "Fake Out"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Mountains",
+        "Temperate, Deciduous Forests",
+        "Tundras and Boreal Forests"
     ]
 }

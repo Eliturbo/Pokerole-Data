@@ -127,5 +127,10 @@
             "Learned": "Pro",
             "Name": "Focus Energy"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Lakesides and Riversides",
+        "Temperate, Deciduous Forests"
     ]
 }

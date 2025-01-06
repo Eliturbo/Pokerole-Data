@@ -95,5 +95,10 @@
             "Learned": "Pro",
             "Name": "Substitute"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Mountains",
+        "Volcanoes"
     ]
 }

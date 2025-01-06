@@ -117,5 +117,9 @@
             "Learned": "Pro",
             "Name": "Skill Swap"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Ruins and Cemeteries"
     ]
 }

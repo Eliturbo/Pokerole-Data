@@ -34,8 +34,6 @@
         "Pounds": 0
     },
     "DexDescription": "",
-    "BookImageName": "",
-    "BookShinyImageName": "",
     "Evolutions": [],
     "Image": "egg.png",
     "Moves": [
@@ -43,5 +41,6 @@
             "Learned": "Starter",
             "Name": "Rest"
         }
-    ]
+    ],
+    "Habitats": null
 }

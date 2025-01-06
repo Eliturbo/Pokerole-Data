@@ -116,5 +116,9 @@
             "Learned": "Pro",
             "Name": "Fire Pledge"
         }
+    ],
+    "Habitats": [
+        "Mountains",
+        "Volcanoes"
     ]
 }

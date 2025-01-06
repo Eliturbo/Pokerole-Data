@@ -95,5 +95,10 @@
             "Learned": "Pro",
             "Name": "Iron Head"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Caves",
+        "Volcanoes"
     ]
 }

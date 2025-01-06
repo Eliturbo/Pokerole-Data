@@ -113,5 +113,9 @@
             "Learned": "Pro",
             "Name": "Metal Claw"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Lakesides and Riversides"
     ]
 }

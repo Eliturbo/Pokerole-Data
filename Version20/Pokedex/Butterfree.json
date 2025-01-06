@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Bug Buzz"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles"
     ]
 }

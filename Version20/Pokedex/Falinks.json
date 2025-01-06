@@ -105,5 +105,9 @@
             "Learned": "Pro",
             "Name": "Poison Jab"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Mountains"
     ]
 }

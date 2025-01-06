@@ -139,5 +139,10 @@
             "Learned": "Pro",
             "Name": "Blast Burn"
         }
+    ],
+    "Habitats": [
+        "Deserts",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Temperate, Deciduous Forests"
     ]
 }

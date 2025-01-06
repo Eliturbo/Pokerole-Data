@@ -113,5 +113,10 @@
             "Learned": "Pro",
             "Name": "Silver Wind"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Ponds",
+        "Temperate, Deciduous Forests"
     ]
 }

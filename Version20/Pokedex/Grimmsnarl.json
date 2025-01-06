@@ -127,5 +127,9 @@
             "Learned": "Pro",
             "Name": "Reflect"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Woodlands"
     ]
 }

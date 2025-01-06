@@ -123,5 +123,9 @@
             "Learned": "Pro",
             "Name": "Heat Wave"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Woodlands"
     ]
 }

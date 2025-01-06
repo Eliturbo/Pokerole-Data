@@ -128,5 +128,9 @@
             "Learned": "Pro",
             "Name": "Hurricane"
         }
+    ],
+    "Habitats": [
+        "Glaciers, Mountain Peaks, and Icy Caves",
+        "Tundras and Boreal Forests"
     ]
 }

@@ -113,5 +113,10 @@
             "Learned": "Pro",
             "Name": "Nasty Plot"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles"
     ]
 }

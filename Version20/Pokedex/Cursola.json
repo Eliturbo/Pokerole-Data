@@ -111,5 +111,12 @@
             "Learned": "Pro",
             "Name": "Destiny Bond"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Oceanic Abysses",
+        "Open Ocean and the Continental Shelf",
+        "Polar Seas",
+        "Tropical Seas and Coral Reefs"
     ]
 }

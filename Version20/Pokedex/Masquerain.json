@@ -111,5 +111,10 @@
             "Learned": "Pro",
             "Name": "Psybeam"
         }
+    ],
+    "Habitats": [
+        "Lakes",
+        "Ponds",
+        "Swamps, Bogs, and Marshes"
     ]
 }

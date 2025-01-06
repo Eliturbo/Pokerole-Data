@@ -113,5 +113,8 @@
             "Learned": "Pro",
             "Name": "Grudge"
         }
+    ],
+    "Habitats": [
+        "Cities"
     ]
 }

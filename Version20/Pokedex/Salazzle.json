@@ -132,5 +132,9 @@
             "Learned": "Pro",
             "Name": "Overheat"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Volcanoes"
     ]
 }

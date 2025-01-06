@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Superpower"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Lakesides and Riversides"
     ]
 }

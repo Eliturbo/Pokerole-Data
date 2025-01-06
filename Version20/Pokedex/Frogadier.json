@@ -120,5 +120,9 @@
             "Learned": "Pro",
             "Name": "Water Pledge"
         }
+    ],
+    "Habitats": [
+        "Ponds",
+        "Swamps, Bogs, and Marshes"
     ]
 }

@@ -139,5 +139,10 @@
             "Learned": "Pro",
             "Name": "Poison Fang"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Temperate, Deciduous Forests",
+        "Tundras and Boreal Forests"
     ]
 }

@@ -75,5 +75,9 @@
             "Learned": "Pro",
             "Name": "Healing Wish"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Ruins and Cemeteries"
     ]
 }

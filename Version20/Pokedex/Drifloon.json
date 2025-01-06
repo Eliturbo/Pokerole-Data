@@ -115,5 +115,9 @@
             "Learned": "Pro",
             "Name": "Sucker Punch"
         }
+    ],
+    "Habitats": [
+        "Mountains",
+        "Volcanoes"
     ]
 }

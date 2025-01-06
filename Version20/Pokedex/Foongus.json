@@ -115,5 +115,9 @@
             "Learned": "Pro",
             "Name": "Gastro Acid"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Temperate, Deciduous Forests"
     ]
 }

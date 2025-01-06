@@ -111,5 +111,10 @@
             "Learned": "Pro",
             "Name": "Spit Up"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Ponds",
+        "Streams and Rivers"
     ]
 }

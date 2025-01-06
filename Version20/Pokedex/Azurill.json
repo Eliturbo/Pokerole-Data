@@ -96,5 +96,12 @@
             "Learned": "Pro",
             "Name": "Fake Tears"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Lakes",
+        "Ponds",
+        "Streams and Rivers",
+        "Swamps, Bogs, and Marshes"
     ]
 }

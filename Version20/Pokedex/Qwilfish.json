@@ -133,5 +133,9 @@
             "Learned": "Pro",
             "Name": "Swords Dance"
         }
+    ],
+    "Habitats": [
+        "Open Ocean and the Continental Shelf",
+        "Tropical Seas and Coral Reefs"
     ]
 }

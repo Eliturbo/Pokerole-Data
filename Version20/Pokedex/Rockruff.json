@@ -128,5 +128,11 @@
             "Learned": "Pro",
             "Name": "Thunder Fang"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Deserts",
+        "Mountains",
+        "Temperate, Deciduous Forests"
     ]
 }

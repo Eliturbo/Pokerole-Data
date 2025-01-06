@@ -111,5 +111,10 @@
             "Learned": "Pro",
             "Name": "Bounce"
         }
+    ],
+    "Habitats": [
+        "Open Ocean and the Continental Shelf",
+        "Streams and Rivers",
+        "Tropical Seas and Coral Reefs"
     ]
 }

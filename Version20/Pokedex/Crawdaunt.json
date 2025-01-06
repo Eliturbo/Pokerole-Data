@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Mud Sport"
         }
+    ],
+    "Habitats": [
+        "Lakes",
+        "Ponds",
+        "Streams and Rivers"
     ]
 }

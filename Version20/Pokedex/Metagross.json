@@ -120,5 +120,9 @@
             "Learned": "Pro",
             "Name": "Telekinesis"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Electromagnetically-Active Areas"
     ]
 }

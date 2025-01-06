@@ -103,5 +103,9 @@
             "Learned": "Pro",
             "Name": "Trick"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Ruins and Cemeteries"
     ]
 }

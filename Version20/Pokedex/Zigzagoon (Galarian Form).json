@@ -107,5 +107,11 @@
             "Learned": "Pro",
             "Name": "Quick Guard"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Temperate, Deciduous Forests"
     ]
 }

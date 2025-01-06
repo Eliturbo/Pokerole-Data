@@ -111,5 +111,9 @@
             "Learned": "Pro",
             "Name": "Icy Wind"
         }
+    ],
+    "Habitats": [
+        "Lakes",
+        "Ponds"
     ]
 }

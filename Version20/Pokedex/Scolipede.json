@@ -123,5 +123,9 @@
             "Learned": "Pro",
             "Name": "Superpower"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

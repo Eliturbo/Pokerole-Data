@@ -83,5 +83,12 @@
             "Learned": "Pro",
             "Name": "Counter"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Lakesides and Riversides",
+        "Lakes",
+        "Ponds",
+        "Swamps, Bogs, and Marshes"
     ]
 }

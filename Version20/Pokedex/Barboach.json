@@ -115,5 +115,12 @@
             "Learned": "Pro",
             "Name": "Mud Shot"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Lakes",
+        "Ponds",
+        "Streams and Rivers",
+        "Swamps, Bogs, and Marshes"
     ]
 }

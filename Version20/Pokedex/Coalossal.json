@@ -107,5 +107,10 @@
             "Learned": "Pro",
             "Name": "Heavy Slam"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Mountains",
+        "Volcanoes"
     ]
 }

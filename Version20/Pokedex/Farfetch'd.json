@@ -117,5 +117,10 @@
             "Learned": "Pro",
             "Name": "Roost"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Lakesides and Riversides",
+        "Temperate, Deciduous Forests"
     ]
 }

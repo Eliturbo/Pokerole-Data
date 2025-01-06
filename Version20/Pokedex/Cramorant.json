@@ -101,5 +101,10 @@
             "Learned": "Pro",
             "Name": "Feather Dance"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Open Ocean and the Continental Shelf",
+        "Polar Seas"
     ]
 }

@@ -124,5 +124,10 @@
             "Learned": "Pro",
             "Name": "Fire Pledge"
         }
+    ],
+    "Habitats": [
+        "Deserts",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Temperate, Deciduous Forests"
     ]
 }

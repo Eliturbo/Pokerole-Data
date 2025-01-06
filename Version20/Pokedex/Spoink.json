@@ -111,5 +111,9 @@
             "Learned": "Pro",
             "Name": "Extrasensory"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Mountains"
     ]
 }

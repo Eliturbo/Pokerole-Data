@@ -86,5 +86,10 @@
             "Learned": "Pro",
             "Name": "String Shot"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Lakesides and Riversides",
+        "Temperate, Deciduous Forests"
     ]
 }

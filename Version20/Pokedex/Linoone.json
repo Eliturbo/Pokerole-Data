@@ -127,5 +127,11 @@
             "Learned": "Pro",
             "Name": "Seed Bomb"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Woodlands"
     ]
 }

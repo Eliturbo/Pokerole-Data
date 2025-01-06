@@ -83,5 +83,10 @@
             "Learned": "Pro",
             "Name": "Twister"
         }
+    ],
+    "Habitats": [
+        "Open Ocean and the Continental Shelf",
+        "Polar Seas",
+        "Tropical Seas and Coral Reefs"
     ]
 }

@@ -107,5 +107,9 @@
             "Learned": "Pro",
             "Name": "Superpower"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies"
     ]
 }

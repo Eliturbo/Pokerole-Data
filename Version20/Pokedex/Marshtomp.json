@@ -116,5 +116,9 @@
             "Learned": "Pro",
             "Name": "Dynamic Punch"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Swamps, Bogs, and Marshes"
     ]
 }

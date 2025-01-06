@@ -109,5 +109,9 @@
             "Learned": "Pro",
             "Name": "Outrage"
         }
+    ],
+    "Habitats": [
+        "Polar Seas",
+        "Tropical Seas and Coral Reefs"
     ]
 }

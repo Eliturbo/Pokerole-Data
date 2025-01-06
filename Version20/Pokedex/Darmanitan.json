@@ -127,5 +127,9 @@
             "Learned": "Pro",
             "Name": "Psychic"
         }
+    ],
+    "Habitats": [
+        "Deserts",
+        "Ruins and Cemeteries"
     ]
 }

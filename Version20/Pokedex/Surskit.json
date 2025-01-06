@@ -99,5 +99,10 @@
             "Learned": "Pro",
             "Name": "Hydro Pump"
         }
+    ],
+    "Habitats": [
+        "Lakes",
+        "Ponds",
+        "Swamps, Bogs, and Marshes"
     ]
 }

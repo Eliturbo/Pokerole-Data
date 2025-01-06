@@ -99,5 +99,10 @@
             "Learned": "Pro",
             "Name": "Seismic Toss"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Open Ocean and the Continental Shelf",
+        "Polar Seas"
     ]
 }

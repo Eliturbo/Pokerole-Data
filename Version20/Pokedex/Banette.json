@@ -128,5 +128,8 @@
             "Learned": "Pro",
             "Name": "Icy Wind"
         }
+    ],
+    "Habitats": [
+        "Cities"
     ]
 }

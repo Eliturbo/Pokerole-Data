@@ -104,5 +104,8 @@
             "Learned": "Pro",
             "Name": "Aqua Jet"
         }
+    ],
+    "Habitats": [
+        "Ponds"
     ]
 }

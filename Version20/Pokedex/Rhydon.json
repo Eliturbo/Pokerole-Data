@@ -124,5 +124,11 @@
             "Learned": "Pro",
             "Name": "Smart Strike"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Caves",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Mountains"
     ]
 }

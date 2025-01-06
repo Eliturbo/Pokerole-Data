@@ -101,5 +101,8 @@
             "Learned": "Pro",
             "Name": "Work Up"
         }
+    ],
+    "Habitats": [
+        "Cities"
     ]
 }

@@ -115,5 +115,9 @@
             "Learned": "Pro",
             "Name": "Final Gambit"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

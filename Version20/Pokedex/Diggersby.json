@@ -135,5 +135,10 @@
             "Learned": "Pro",
             "Name": "Fire Punch"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Mountains",
+        "Temperate, Deciduous Forests"
     ]
 }

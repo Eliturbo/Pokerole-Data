@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Fire Fang"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Mountains"
     ]
 }

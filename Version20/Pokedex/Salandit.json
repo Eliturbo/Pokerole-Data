@@ -112,5 +112,9 @@
             "Learned": "Pro",
             "Name": "Will-O-Wisp"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Volcanoes"
     ]
 }

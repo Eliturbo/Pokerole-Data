@@ -71,5 +71,10 @@
             "Learned": "Pro",
             "Name": "Gunk Shot"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles"
     ]
 }

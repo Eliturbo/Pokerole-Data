@@ -101,5 +101,9 @@
             "Learned": "Pro",
             "Name": "Mirror Coat"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Mountains"
     ]
 }

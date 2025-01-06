@@ -112,5 +112,10 @@
             "Learned": "Pro",
             "Name": "Electroweb"
         }
+    ],
+    "Habitats": [
+        "Electromagnetically-Active Areas",
+        "Tropical Jungles",
+        "Woodlands"
     ]
 }

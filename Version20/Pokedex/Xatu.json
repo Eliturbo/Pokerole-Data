@@ -127,5 +127,10 @@
             "Learned": "Pro",
             "Name": "Heat Wave"
         }
+    ],
+    "Habitats": [
+        "Deserts",
+        "Ruins and Cemeteries",
+        "Tropical Jungles"
     ]
 }

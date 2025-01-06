@@ -125,5 +125,10 @@
             "Learned": "Pro",
             "Name": "Detect"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Caves",
+        "Mountains"
     ]
 }

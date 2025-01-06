@@ -99,5 +99,9 @@
             "Learned": "Pro",
             "Name": "Speed Swap"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Fields and Meadows"
     ]
 }

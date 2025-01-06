@@ -125,5 +125,9 @@
             "Learned": "Pro",
             "Name": "Present"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Temperate, Deciduous Forests"
     ]
 }

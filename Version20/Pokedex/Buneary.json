@@ -124,5 +124,11 @@
             "Learned": "Pro",
             "Name": "Sweet Kiss"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Mountains",
+        "Temperate, Deciduous Forests",
+        "Tundras and Boreal Forests"
     ]
 }

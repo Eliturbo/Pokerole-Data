@@ -123,5 +123,9 @@
             "Learned": "Pro",
             "Name": "Aqua Tail"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies"
     ]
 }

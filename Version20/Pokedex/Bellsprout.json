@@ -111,5 +111,9 @@
             "Learned": "Pro",
             "Name": "Weather Ball"
         }
+    ],
+    "Habitats": [
+        "Swamps, Bogs, and Marshes",
+        "Tropical Jungles"
     ]
 }

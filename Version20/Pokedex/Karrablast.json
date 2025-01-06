@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Pursuit"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Swamps, Bogs, and Marshes",
+        "Temperate, Deciduous Forests"
     ]
 }

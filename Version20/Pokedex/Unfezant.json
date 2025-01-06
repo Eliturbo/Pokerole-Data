@@ -115,5 +115,9 @@
             "Learned": "Pro",
             "Name": "Lucky Chant"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Temperate, Deciduous Forests"
     ]
 }

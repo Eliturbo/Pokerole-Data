@@ -113,5 +113,10 @@
             "Learned": "Pro",
             "Name": "Eerie Impulse"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Electromagnetically-Active Areas",
+        "Fields and Meadows"
     ]
 }

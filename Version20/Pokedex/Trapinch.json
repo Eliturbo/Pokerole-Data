@@ -123,5 +123,8 @@
             "Learned": "Pro",
             "Name": "Giga Drain"
         }
+    ],
+    "Habitats": [
+        "Deserts"
     ]
 }

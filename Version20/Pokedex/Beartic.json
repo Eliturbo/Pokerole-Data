@@ -127,5 +127,10 @@
             "Learned": "Pro",
             "Name": "Play Rough"
         }
+    ],
+    "Habitats": [
+        "Glaciers, Mountain Peaks, and Icy Caves",
+        "Polar Seas",
+        "Tundras and Boreal Forests"
     ]
 }

@@ -103,5 +103,9 @@
             "Learned": "Pro",
             "Name": "Fling"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Fields and Meadows"
     ]
 }

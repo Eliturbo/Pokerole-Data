@@ -124,5 +124,9 @@
             "Learned": "Pro",
             "Name": "Self Destruct"
         }
+    ],
+    "Habitats": [
+        "Mountains",
+        "Temperate, Deciduous Forests"
     ]
 }

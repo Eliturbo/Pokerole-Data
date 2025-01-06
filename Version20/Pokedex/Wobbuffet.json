@@ -59,5 +59,9 @@
             "Learned": "Pro",
             "Name": "Destiny Bond"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Temperate, Deciduous Forests"
     ]
 }

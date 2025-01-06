@@ -112,5 +112,10 @@
             "Learned": "Pro",
             "Name": "Reflect"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Temperate, Deciduous Forests"
     ]
 }

@@ -83,5 +83,9 @@
             "Learned": "Pro",
             "Name": "Wild Charge"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Volcanoes"
     ]
 }

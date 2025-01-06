@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Imprison"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Temperate, Deciduous Forests"
     ]
 }

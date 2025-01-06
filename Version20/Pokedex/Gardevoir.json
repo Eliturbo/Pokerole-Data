@@ -132,5 +132,9 @@
             "Learned": "Pro",
             "Name": "Wonder Room"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Temperate, Deciduous Forests"
     ]
 }

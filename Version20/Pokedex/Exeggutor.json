@@ -91,5 +91,10 @@
             "Learned": "Pro",
             "Name": "Curse"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles"
     ]
 }

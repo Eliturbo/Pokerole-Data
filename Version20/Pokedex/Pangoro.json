@@ -127,5 +127,9 @@
             "Learned": "Pro",
             "Name": "Drain Punch"
         }
+    ],
+    "Habitats": [
+        "Mountains",
+        "Temperate, Deciduous Forests"
     ]
 }

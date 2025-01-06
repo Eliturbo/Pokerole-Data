@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Tailwind"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles",
+        "Tundras and Boreal Forests"
     ]
 }

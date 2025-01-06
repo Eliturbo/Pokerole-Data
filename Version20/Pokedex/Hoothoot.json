@@ -127,5 +127,10 @@
             "Learned": "Pro",
             "Name": "Feather Dance"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Tundras and Boreal Forests",
+        "Woodlands"
     ]
 }

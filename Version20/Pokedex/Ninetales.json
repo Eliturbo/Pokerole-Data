@@ -79,5 +79,10 @@
             "Learned": "Pro",
             "Name": "Heat Wave"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Ruins and Cemeteries",
+        "Volcanoes"
     ]
 }

@@ -115,5 +115,9 @@
             "Learned": "Pro",
             "Name": "Endure"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Temperate, Deciduous Forests"
     ]
 }

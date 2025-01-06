@@ -111,5 +111,9 @@
             "Learned": "Pro",
             "Name": "Aqua Ring"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Streams and Rivers"
     ]
 }

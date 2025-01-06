@@ -63,5 +63,9 @@
             "Learned": "Pro",
             "Name": "Spikes"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Oceanic Abysses"
     ]
 }

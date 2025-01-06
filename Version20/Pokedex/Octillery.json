@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Dive"
         }
+    ],
+    "Habitats": [
+        "Open Ocean and the Continental Shelf",
+        "Tropical Seas and Coral Reefs"
     ]
 }

@@ -118,5 +118,9 @@
             "Learned": "Ace",
             "Name": "Discharge"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Electromagnetically-Active Areas"
     ]
 }

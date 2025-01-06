@@ -118,5 +118,10 @@
             "Learned": "Pro",
             "Name": "Wild Charge"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Electromagnetically-Active Areas",
+        "Mountains"
     ]
 }

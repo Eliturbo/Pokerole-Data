@@ -123,5 +123,8 @@
             "Learned": "Pro",
             "Name": "Snatch"
         }
+    ],
+    "Habitats": [
+        "Cities"
     ]
 }

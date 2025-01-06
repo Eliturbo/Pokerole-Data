@@ -99,5 +99,10 @@
             "Learned": "Pro",
             "Name": "Sleep Talk"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles",
+        "Woodlands"
     ]
 }

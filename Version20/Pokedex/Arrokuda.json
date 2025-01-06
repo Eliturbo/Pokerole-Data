@@ -95,5 +95,11 @@
             "Learned": "Pro",
             "Name": "Ice Fang"
         }
+    ],
+    "Habitats": [
+        "Lakes",
+        "Open Ocean and the Continental Shelf",
+        "Streams and Rivers",
+        "Tropical Seas and Coral Reefs"
     ]
 }

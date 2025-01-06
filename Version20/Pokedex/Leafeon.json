@@ -111,5 +111,9 @@
             "Learned": "Pro",
             "Name": "Flail"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

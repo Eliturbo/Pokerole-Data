@@ -80,5 +80,10 @@
             "Learned": "Pro",
             "Name": "Volt Tackle"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Fields and Meadows",
+        "Temperate, Deciduous Forests"
     ]
 }

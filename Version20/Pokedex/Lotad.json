@@ -103,5 +103,8 @@
             "Learned": "Pro",
             "Name": "Flail"
         }
+    ],
+    "Habitats": [
+        "Ponds"
     ]
 }

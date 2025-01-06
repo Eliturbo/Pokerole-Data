@@ -104,5 +104,10 @@
             "Learned": "Pro",
             "Name": "Night Slash"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles",
+        "Woodlands"
     ]
 }

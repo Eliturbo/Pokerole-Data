@@ -107,5 +107,10 @@
             "Learned": "Pro",
             "Name": "Crunch"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Tundras and Boreal Forests",
+        "Woodlands"
     ]
 }

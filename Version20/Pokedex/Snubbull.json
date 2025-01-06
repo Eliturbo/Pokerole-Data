@@ -115,5 +115,9 @@
             "Learned": "Pro",
             "Name": "Fake Tears"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Temperate, Deciduous Forests"
     ]
 }

@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Gravity"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Cities",
+        "Electromagnetically-Active Areas"
     ]
 }

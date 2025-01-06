@@ -117,5 +117,10 @@
             "Learned": "Pro",
             "Name": "Tickle"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Oceanic Abysses",
+        "Tropical Seas and Coral Reefs"
     ]
 }

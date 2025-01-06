@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Feather Dance"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Lakesides and Riversides",
+        "Temperate, Deciduous Forests"
     ]
 }

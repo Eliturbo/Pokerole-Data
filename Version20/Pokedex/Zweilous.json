@@ -124,5 +124,8 @@
             "Learned": "Pro",
             "Name": "Fire Fang"
         }
+    ],
+    "Habitats": [
+        "Caves"
     ]
 }

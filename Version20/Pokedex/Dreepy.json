@@ -71,5 +71,10 @@
             "Learned": "Pro",
             "Name": "Double Team"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Lakesides and Riversides",
+        "Lakes"
     ]
 }

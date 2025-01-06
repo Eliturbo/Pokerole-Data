@@ -144,5 +144,11 @@
             "Learned": "Pro",
             "Name": "Pain Split"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Ruins and Cemeteries",
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

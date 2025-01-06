@@ -107,5 +107,10 @@
             "Learned": "Pro",
             "Name": "Drill Run"
         }
+    ],
+    "Habitats": [
+        "Lakes",
+        "Ponds",
+        "Streams and Rivers"
     ]
 }

@@ -123,5 +123,9 @@
             "Learned": "Pro",
             "Name": "Thunder Punch"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Volcanoes"
     ]
 }

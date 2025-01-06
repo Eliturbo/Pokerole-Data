@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Disarming Voice"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles",
+        "Volcanoes"
     ]
 }

@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Quick Guard"
         }
+    ],
+    "Habitats": [
+        "Swamps, Bogs, and Marshes",
+        "Tropical Jungles"
     ]
 }

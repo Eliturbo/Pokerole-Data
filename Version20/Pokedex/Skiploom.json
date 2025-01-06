@@ -136,5 +136,10 @@
             "Learned": "Pro",
             "Name": "Aromatherapy"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Mountains",
+        "Temperate, Deciduous Forests"
     ]
 }

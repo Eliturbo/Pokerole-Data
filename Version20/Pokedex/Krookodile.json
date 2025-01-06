@@ -127,5 +127,8 @@
             "Learned": "Pro",
             "Name": "Superpower"
         }
+    ],
+    "Habitats": [
+        "Deserts"
     ]
 }

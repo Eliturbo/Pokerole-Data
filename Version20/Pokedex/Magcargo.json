@@ -123,5 +123,8 @@
             "Learned": "Pro",
             "Name": "Self Destruct"
         }
+    ],
+    "Habitats": [
+        "Volcanoes"
     ]
 }

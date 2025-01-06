@@ -139,5 +139,9 @@
             "Learned": "Pro",
             "Name": "Extreme Speed"
         }
+    ],
+    "Habitats": [
+        "Electromagnetically-Active Areas",
+        "Temperate, Deciduous Forests"
     ]
 }

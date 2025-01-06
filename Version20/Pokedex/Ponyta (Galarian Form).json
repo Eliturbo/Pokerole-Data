@@ -107,5 +107,9 @@
             "Learned": "Pro",
             "Name": "Protect"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

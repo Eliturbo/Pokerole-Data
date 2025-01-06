@@ -111,5 +111,8 @@
             "Learned": "Pro",
             "Name": "Mist"
         }
+    ],
+    "Habitats": [
+        "Lakes"
     ]
 }

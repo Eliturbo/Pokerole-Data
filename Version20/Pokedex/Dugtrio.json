@@ -127,5 +127,9 @@
             "Learned": "Pro",
             "Name": "Stealth Rock"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Deserts"
     ]
 }

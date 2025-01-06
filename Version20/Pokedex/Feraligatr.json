@@ -123,5 +123,10 @@
             "Learned": "Pro",
             "Name": "Metal Claw"
         }
+    ],
+    "Habitats": [
+        "Lakes",
+        "Streams and Rivers",
+        "Swamps, Bogs, and Marshes"
     ]
 }

@@ -59,5 +59,9 @@
             "Learned": "Amateur",
             "Name": "Electroweb"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

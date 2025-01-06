@@ -115,5 +115,9 @@
             "Learned": "Pro",
             "Name": "Counter"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Tropical Jungles"
     ]
 }

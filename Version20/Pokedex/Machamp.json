@@ -130,5 +130,9 @@
             "Learned": "Pro",
             "Name": "Close Combat"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Mountains"
     ]
 }

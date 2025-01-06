@@ -111,5 +111,9 @@
             "Learned": "Pro",
             "Name": "Roost"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies"
     ]
 }

@@ -127,5 +127,10 @@
             "Learned": "Pro",
             "Name": "Aqua Ring"
         }
+    ],
+    "Habitats": [
+        "Open Ocean and the Continental Shelf",
+        "Polar Seas",
+        "Tropical Seas and Coral Reefs"
     ]
 }

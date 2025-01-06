@@ -123,5 +123,8 @@
             "Learned": "Pro",
             "Name": "Detect"
         }
+    ],
+    "Habitats": [
+        "Mountains"
     ]
 }

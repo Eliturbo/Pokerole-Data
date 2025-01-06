@@ -59,5 +59,9 @@
             "Learned": "Ace",
             "Name": "Metronome"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Ruins and Cemeteries"
     ]
 }

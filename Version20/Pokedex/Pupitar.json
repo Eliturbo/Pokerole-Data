@@ -116,5 +116,10 @@
             "Learned": "Pro",
             "Name": "Focus Energy"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Caves",
+        "Mountains"
     ]
 }

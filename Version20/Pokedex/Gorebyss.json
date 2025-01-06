@@ -115,5 +115,9 @@
             "Learned": "Pro",
             "Name": "Muddy Water"
         }
+    ],
+    "Habitats": [
+        "Oceanic Abysses",
+        "Tropical Seas and Coral Reefs"
     ]
 }

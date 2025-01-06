@@ -95,5 +95,9 @@
             "Learned": "Pro",
             "Name": "Hone Claws"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Temperate, Deciduous Forests"
     ]
 }

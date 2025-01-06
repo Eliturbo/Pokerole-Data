@@ -123,5 +123,10 @@
             "Learned": "Pro",
             "Name": "Last Resort"
         }
+    ],
+    "Habitats": [
+        "Mountains",
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

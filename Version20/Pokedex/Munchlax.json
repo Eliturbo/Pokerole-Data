@@ -124,5 +124,10 @@
             "Learned": "Pro",
             "Name": "Zen Headbutt"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Mountains",
+        "Temperate, Deciduous Forests"
     ]
 }

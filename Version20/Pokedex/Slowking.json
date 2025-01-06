@@ -127,5 +127,9 @@
             "Learned": "Pro",
             "Name": "Brine"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Lakesides and Riversides"
     ]
 }

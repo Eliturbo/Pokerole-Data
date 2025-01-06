@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Dragon Pulse"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Temperate, Deciduous Forests"
     ]
 }

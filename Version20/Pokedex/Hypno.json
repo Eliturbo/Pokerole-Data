@@ -131,5 +131,11 @@
             "Learned": "Pro",
             "Name": "Metronome"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Lakesides and Riversides",
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles"
     ]
 }

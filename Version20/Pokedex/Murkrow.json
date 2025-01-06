@@ -115,5 +115,11 @@
             "Learned": "Pro",
             "Name": "Perish Song"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Swamps, Bogs, and Marshes",
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

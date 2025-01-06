@@ -99,5 +99,10 @@
             "Learned": "Pro",
             "Name": "Fake Tears"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

@@ -86,5 +86,10 @@
             "Learned": "Pro",
             "Name": "Round"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Swamps, Bogs, and Marshes"
     ]
 }

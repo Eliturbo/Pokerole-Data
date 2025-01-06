@@ -127,5 +127,9 @@
             "Learned": "Pro",
             "Name": "Tailwind"
         }
+    ],
+    "Habitats": [
+        "Swamps, Bogs, and Marshes",
+        "Woodlands"
     ]
 }

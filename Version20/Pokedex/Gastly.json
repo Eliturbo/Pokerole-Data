@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Grudge"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Ruins and Cemeteries",
+        "Temperate, Deciduous Forests"
     ]
 }

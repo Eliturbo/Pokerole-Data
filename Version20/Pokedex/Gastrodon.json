@@ -95,5 +95,9 @@
             "Learned": "Pro",
             "Name": "Fissure"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Tropical Seas and Coral Reefs"
     ]
 }

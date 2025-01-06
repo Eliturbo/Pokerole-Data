@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Grass Whistle"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

@@ -101,5 +101,9 @@
             "Learned": "Pro",
             "Name": "Play Rough"
         }
+    ],
+    "Habitats": [
+        "Mountains",
+        "Temperate, Deciduous Forests"
     ]
 }

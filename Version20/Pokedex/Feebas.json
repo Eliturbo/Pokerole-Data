@@ -68,5 +68,12 @@
             "Learned": "Pro",
             "Name": "Dive"
         }
+    ],
+    "Habitats": [
+        "Lakes",
+        "Open Ocean and the Continental Shelf",
+        "Ponds",
+        "Streams and Rivers",
+        "Tropical Seas and Coral Reefs"
     ]
 }

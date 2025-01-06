@@ -151,5 +151,8 @@
             "Learned": "Pro",
             "Name": "Nasty Plot"
         }
+    ],
+    "Habitats": [
+        "Cities"
     ]
 }

@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Heat Wave"
         }
+    ],
+    "Habitats": [
+        "Swamps, Bogs, and Marshes",
+        "Tundras and Boreal Forests"
     ]
 }

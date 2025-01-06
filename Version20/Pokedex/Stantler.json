@@ -109,5 +109,10 @@
             "Learned": "Pro",
             "Name": "Thrash"
         }
+    ],
+    "Habitats": [
+        "Mountains",
+        "Temperate, Deciduous Forests",
+        "Tundras and Boreal Forests"
     ]
 }

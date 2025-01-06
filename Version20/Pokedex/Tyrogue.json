@@ -84,5 +84,9 @@
             "Learned": "Pro",
             "Name": "Seismic Toss"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Mountains"
     ]
 }

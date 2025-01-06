@@ -128,5 +128,9 @@
             "Learned": "Pro",
             "Name": "Ominous Wind"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Temperate, Deciduous Forests"
     ]
 }

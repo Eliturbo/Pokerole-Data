@@ -109,5 +109,10 @@
             "Learned": "Pro",
             "Name": "Fake Tears"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Electromagnetically-Active Areas",
+        "Temperate, Deciduous Forests"
     ]
 }

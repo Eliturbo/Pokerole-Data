@@ -80,5 +80,10 @@
             "Learned": "Pro",
             "Name": "Mud Sport"
         }
+    ],
+    "Habitats": [
+        "Oceanic Abysses",
+        "Open Ocean and the Continental Shelf",
+        "Tropical Seas and Coral Reefs"
     ]
 }

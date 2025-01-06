@@ -114,5 +114,9 @@
             "Learned": "Pro",
             "Name": "Foul Play"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Fields and Meadows"
     ]
 }

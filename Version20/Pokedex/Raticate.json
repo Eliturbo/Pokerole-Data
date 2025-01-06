@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Final Gambit"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies"
     ]
 }

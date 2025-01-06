@@ -123,5 +123,9 @@
             "Learned": "Pro",
             "Name": "Iron Defense"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Grasslands, Savannas, Plains, and Prairies"
     ]
 }

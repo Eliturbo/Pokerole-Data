@@ -118,5 +118,11 @@
             "Learned": "Pro",
             "Name": "Wide Guard"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Mountains",
+        "Temperate, Deciduous Forests",
+        "Tundras and Boreal Forests"
     ]
 }

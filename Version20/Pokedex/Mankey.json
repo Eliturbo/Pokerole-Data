@@ -131,5 +131,10 @@
             "Learned": "Ace",
             "Name": "Stomping Tantrum"
         }
+    ],
+    "Habitats": [
+        "Mountains",
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles"
     ]
 }

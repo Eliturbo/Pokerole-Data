@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Venom Drench"
         }
+    ],
+    "Habitats": [
+        "Oceanic Abysses",
+        "Open Ocean and the Continental Shelf"
     ]
 }

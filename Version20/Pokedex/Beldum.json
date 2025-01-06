@@ -55,5 +55,9 @@
             "Learned": "Pro",
             "Name": "Headbutt"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Electromagnetically-Active Areas"
     ]
 }

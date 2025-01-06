@@ -128,5 +128,10 @@
             "Learned": "Pro",
             "Name": "Draco Meteor"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Lakesides and Riversides",
+        "Lakes"
     ]
 }

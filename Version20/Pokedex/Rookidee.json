@@ -99,5 +99,10 @@
             "Learned": "Pro",
             "Name": "Sand Attack"
         }
+    ],
+    "Habitats": [
+        "Swamps, Bogs, and Marshes",
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

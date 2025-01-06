@@ -63,5 +63,10 @@
             "Learned": "Pro",
             "Name": "Rage Powder"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles",
+        "Tundras and Boreal Forests"
     ]
 }

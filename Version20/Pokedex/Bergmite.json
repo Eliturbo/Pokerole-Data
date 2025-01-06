@@ -115,5 +115,9 @@
             "Learned": "Pro",
             "Name": "Endure"
         }
+    ],
+    "Habitats": [
+        "Glaciers, Mountain Peaks, and Icy Caves",
+        "Polar Seas"
     ]
 }

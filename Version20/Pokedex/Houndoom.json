@@ -128,5 +128,10 @@
             "Learned": "Pro",
             "Name": "Sucker Punch"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Volcanoes",
+        "Woodlands"
     ]
 }

@@ -115,5 +115,9 @@
             "Learned": "Pro",
             "Name": "Outrage"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Temperate, Deciduous Forests"
     ]
 }

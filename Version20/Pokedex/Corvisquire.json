@@ -104,5 +104,10 @@
             "Learned": "Pro",
             "Name": "Rock Smash"
         }
+    ],
+    "Habitats": [
+        "Swamps, Bogs, and Marshes",
+        "Temperate, Deciduous Forests",
+        "Woodlands"
     ]
 }

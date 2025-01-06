@@ -101,5 +101,9 @@
             "Learned": "Pro",
             "Name": "Helping Hand"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Mountains"
     ]
 }

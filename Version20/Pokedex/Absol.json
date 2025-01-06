@@ -127,5 +127,9 @@
             "Learned": "Pro",
             "Name": "Spite"
         }
+    ],
+    "Habitats": [
+        "Mountains",
+        "Ruins and Cemeteries"
     ]
 }

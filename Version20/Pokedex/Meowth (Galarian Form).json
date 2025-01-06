@@ -107,5 +107,11 @@
             "Learned": "Pro",
             "Name": "Curse"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Glaciers, Mountain Peaks, and Icy Caves",
+        "Lakesides and Riversides",
+        "Tundras and Boreal Forests"
     ]
 }

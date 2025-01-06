@@ -109,5 +109,8 @@
             "Learned": "Pro",
             "Name": "Hurricane"
         }
+    ],
+    "Habitats": [
+        "Mountains"
     ]
 }

@@ -41,5 +41,9 @@
             "Learned": "Starter",
             "Name": "Transform"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Temperate, Deciduous Forests"
     ]
 }

@@ -144,5 +144,9 @@
             "Learned": "Pro",
             "Name": "Baton Pass"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Mountains"
     ]
 }

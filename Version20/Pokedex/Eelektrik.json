@@ -120,5 +120,12 @@
             "Learned": "Pro",
             "Name": "Iron Tail"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Caves",
+        "Lakesides and Riversides",
+        "Lakes",
+        "Streams and Rivers"
     ]
 }

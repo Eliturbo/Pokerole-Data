@@ -95,5 +95,10 @@
             "Learned": "Pro",
             "Name": "Endure"
         }
+    ],
+    "Habitats": [
+        "Electromagnetically-Active Areas",
+        "Tropical Jungles",
+        "Woodlands"
     ]
 }

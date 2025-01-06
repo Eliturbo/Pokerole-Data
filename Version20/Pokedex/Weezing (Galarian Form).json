@@ -144,5 +144,8 @@
             "Learned": "Pro",
             "Name": "Swallow"
         }
+    ],
+    "Habitats": [
+        "Cities"
     ]
 }

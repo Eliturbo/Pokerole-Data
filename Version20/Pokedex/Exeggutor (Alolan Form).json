@@ -92,5 +92,9 @@
             "Learned": "Pro",
             "Name": "Giga Impact"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Tropical Jungles"
     ]
 }

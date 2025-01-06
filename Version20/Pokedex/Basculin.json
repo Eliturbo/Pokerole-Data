@@ -121,5 +121,9 @@
             "Learned": "Pro",
             "Name": "Superpower"
         }
+    ],
+    "Habitats": [
+        "Lakes",
+        "Streams and Rivers"
     ]
 }

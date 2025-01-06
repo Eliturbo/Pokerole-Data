@@ -128,5 +128,9 @@
             "Learned": "Pro",
             "Name": "High Jump Kick"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Mountains"
     ]
 }

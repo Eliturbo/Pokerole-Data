@@ -111,5 +111,9 @@
             "Learned": "Pro",
             "Name": "Aqua Jet"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Oceanic Abysses"
     ]
 }

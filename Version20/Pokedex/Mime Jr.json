@@ -133,5 +133,8 @@
             "Learned": "Pro",
             "Name": "Wake-Up Slap"
         }
+    ],
+    "Habitats": [
+        "Cities"
     ]
 }

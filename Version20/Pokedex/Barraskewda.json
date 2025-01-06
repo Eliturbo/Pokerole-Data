@@ -99,5 +99,11 @@
             "Learned": "Pro",
             "Name": "Giga Impact"
         }
+    ],
+    "Habitats": [
+        "Lakes",
+        "Open Ocean and the Continental Shelf",
+        "Streams and Rivers",
+        "Tropical Seas and Coral Reefs"
     ]
 }

@@ -111,5 +111,11 @@
             "Learned": "Pro",
             "Name": "Assist"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Tundras and Boreal Forests",
+        "Woodlands"
     ]
 }

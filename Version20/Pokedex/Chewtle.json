@@ -91,5 +91,10 @@
             "Learned": "Pro",
             "Name": "Dragon Tail"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Ponds",
+        "Streams and Rivers"
     ]
 }

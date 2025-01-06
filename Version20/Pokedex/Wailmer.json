@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Defense Curl"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Open Ocean and the Continental Shelf"
     ]
 }

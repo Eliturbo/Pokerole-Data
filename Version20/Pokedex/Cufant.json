@@ -107,5 +107,11 @@
             "Learned": "Pro",
             "Name": "Fissure"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Lakesides and Riversides",
+        "Tropical Jungles"
     ]
 }

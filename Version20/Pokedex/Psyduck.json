@@ -119,5 +119,11 @@
             "Learned": "Pro",
             "Name": "Future Sight"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Lakes",
+        "Ponds",
+        "Streams and Rivers"
     ]
 }

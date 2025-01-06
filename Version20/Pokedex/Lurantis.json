@@ -107,5 +107,8 @@
             "Learned": "Pro",
             "Name": "Brick Break"
         }
+    ],
+    "Habitats": [
+        "Tropical Jungles"
     ]
 }

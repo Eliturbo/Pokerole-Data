@@ -119,5 +119,9 @@
             "Learned": "Pro",
             "Name": "Earth Power"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Caves"
     ]
 }

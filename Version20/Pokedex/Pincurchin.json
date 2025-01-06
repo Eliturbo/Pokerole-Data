@@ -105,5 +105,12 @@
             "Learned": "Pro",
             "Name": "Spikes"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Oceanic Abysses",
+        "Open Ocean and the Continental Shelf",
+        "Polar Seas",
+        "Tropical Seas and Coral Reefs"
     ]
 }

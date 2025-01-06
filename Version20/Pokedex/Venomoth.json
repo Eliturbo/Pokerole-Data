@@ -119,5 +119,10 @@
             "Learned": "Pro",
             "Name": "Defog"
         }
+    ],
+    "Habitats": [
+        "Temperate, Deciduous Forests",
+        "Tropical Jungles",
+        "Woodlands"
     ]
 }

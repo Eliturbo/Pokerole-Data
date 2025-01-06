@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Chip Away"
         }
+    ],
+    "Habitats": [
+        "Lakes",
+        "Ponds",
+        "Streams and Rivers"
     ]
 }

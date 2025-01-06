@@ -123,5 +123,10 @@
             "Learned": "Pro",
             "Name": "Low Kick"
         }
+    ],
+    "Habitats": [
+        "Badlands, Scrublands, and Wastelands",
+        "Lakesides and Riversides",
+        "Mountains"
     ]
 }

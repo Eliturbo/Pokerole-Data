@@ -120,5 +120,9 @@
             "Learned": "Pro",
             "Name": "Twister"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Mountains"
     ]
 }

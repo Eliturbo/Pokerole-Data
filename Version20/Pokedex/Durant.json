@@ -109,5 +109,10 @@
             "Learned": "Pro",
             "Name": "Superpower"
         }
+    ],
+    "Habitats": [
+        "Caves",
+        "Mountains",
+        "Tropical Jungles"
     ]
 }

@@ -107,5 +107,11 @@
             "Learned": "Pro",
             "Name": "Ice Punch"
         }
+    ],
+    "Habitats": [
+        "Lakesides and Riversides",
+        "Lakes",
+        "Streams and Rivers",
+        "Swamps, Bogs, and Marshes"
     ]
 }

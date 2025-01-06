@@ -115,5 +115,10 @@
             "Learned": "Pro",
             "Name": "Charge Beam"
         }
+    ],
+    "Habitats": [
+        "Electromagnetically-Active Areas",
+        "Tropical Jungles",
+        "Woodlands"
     ]
 }

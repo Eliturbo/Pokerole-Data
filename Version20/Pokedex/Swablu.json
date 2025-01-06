@@ -123,5 +123,11 @@
             "Learned": "Pro",
             "Name": "Agility"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Fields and Meadows",
+        "Temperate, Deciduous Forests",
+        "Volcanoes"
     ]
 }

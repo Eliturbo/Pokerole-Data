@@ -125,5 +125,9 @@
             "Learned": "Pro",
             "Name": "Endure"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Fields and Meadows"
     ]
 }

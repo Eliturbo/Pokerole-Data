@@ -112,5 +112,9 @@
             "Learned": "Pro",
             "Name": "Fire Fang"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Grasslands, Savannas, Plains, and Prairies"
     ]
 }

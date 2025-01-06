@@ -111,5 +111,11 @@
             "Learned": "Pro",
             "Name": "Knock Off"
         }
+    ],
+    "Habitats": [
+        "Beaches",
+        "Open Ocean and the Continental Shelf",
+        "Polar Seas",
+        "Tropical Seas and Coral Reefs"
     ]
 }

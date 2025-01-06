@@ -131,5 +131,9 @@
             "Learned": "Pro",
             "Name": "Iron Head"
         }
+    ],
+    "Habitats": [
+        "Glaciers, Mountain Peaks, and Icy Caves",
+        "Polar Seas"
     ]
 }

@@ -75,5 +75,10 @@
             "Learned": "Pro",
             "Name": "Clear Smog"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Ruins and Cemeteries",
+        "Woodlands"
     ]
 }

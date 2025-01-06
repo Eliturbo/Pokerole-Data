@@ -127,5 +127,9 @@
             "Learned": "Pro",
             "Name": "Dual Chop"
         }
+    ],
+    "Habitats": [
+        "Electromagnetically-Active Areas",
+        "Fields and Meadows"
     ]
 }

@@ -123,5 +123,9 @@
             "Learned": "Pro",
             "Name": "Disable"
         }
+    ],
+    "Habitats": [
+        "Grasslands, Savannas, Plains, and Prairies",
+        "Tropical Jungles"
     ]
 }

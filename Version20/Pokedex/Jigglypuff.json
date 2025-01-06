@@ -129,5 +129,9 @@
             "Learned": "Pro",
             "Name": "Heal Pulse"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Temperate, Deciduous Forests"
     ]
 }

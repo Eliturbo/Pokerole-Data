@@ -123,5 +123,9 @@
             "Learned": "Pro",
             "Name": "Counter"
         }
+    ],
+    "Habitats": [
+        "Fields and Meadows",
+        "Swamps, Bogs, and Marshes"
     ]
 }

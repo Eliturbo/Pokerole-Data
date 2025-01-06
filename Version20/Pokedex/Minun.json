@@ -125,5 +125,10 @@
             "Learned": "Pro",
             "Name": "Mimic"
         }
+    ],
+    "Habitats": [
+        "Cities",
+        "Electromagnetically-Active Areas",
+        "Fields and Meadows"
     ]
 }

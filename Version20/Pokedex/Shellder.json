@@ -123,5 +123,10 @@
             "Learned": "Pro",
             "Name": "Rapid Spin"
         }
+    ],
+    "Habitats": [
+        "Open Ocean and the Continental Shelf",
+        "Polar Seas",
+        "Tropical Seas and Coral Reefs"
     ]
 }

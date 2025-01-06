@@ -123,5 +123,8 @@
             "Learned": "Pro",
             "Name": "Iron Head"
         }
+    ],
+    "Habitats": [
+        "Caves"
     ]
 }
